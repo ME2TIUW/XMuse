@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750210365445",
+    "project_id": "xmuse-c8bd1",
+    "storage_bucket": "xmuse-c8bd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750210365445:android:61c4a03d9f45608a15046c",
+        "android_client_info": {
+          "package_name": "com.example.xmuse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcetOOlsuEzxTRFYfpTgMm9wf7pd37YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
